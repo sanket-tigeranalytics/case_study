@@ -11,7 +11,7 @@ conda env create -f env.yml
 ```
 - Then activate it by running the below command
  ```bash
-conda activate mle-dev
+conda activate reg-lib-dev
 ```
 Step 2 - launch the jupyter lab
 
