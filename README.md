@@ -1,3 +1,27 @@
+# Initial setup steps
+
+* Clone the repo using ``` git clone git@github.com:sanket-tigeranalytics/case_study.git ```
+## To excute the script
+
+Step 1 - Environment setup
+
+- You can create the environment required for this setup by running the below command by navigating into the current directory in the shell.
+```bash
+conda env create -f env.yml
+```
+- Then activate it by running the below command
+ ```bash
+conda activate mle-dev
+```
+Step 2 - launch the jupyter lab
+
+- You can type the below command in the shell.
+```python
+inv launch.jupyterlab
+```
+
+
+
 # Sales price prediction
 
 Use regression to predict price of electronic devices
@@ -52,9 +76,6 @@ Tip: If you don't have markdown viewer like atom, you can render this on chrome 
 ```
 
 and check no error messages (`Error: ...`) are printed.
-
-
-## Environment setup:
 
 ### Introduction
 * Environment is divided into two sections
