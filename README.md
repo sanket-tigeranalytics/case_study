@@ -1,6 +1,6 @@
 # Initial setup steps
 
-* Clone the repo using ``` git clone git@github.com:sanket-tigeranalytics/case_study.git ```
+* Clone the repo using ``` git clone https://github.com/sanket-tigeranalytics/case_study.git ```
 ## To excute the script
 
 Step 1 - Environment setup
